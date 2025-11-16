@@ -53,12 +53,11 @@ Deployed on **AWS** for scalability, reliability, and secure cloud operations.
 ### **Frontend**
 
 * React, TypeScript
-* Tailwind CSS
 * API integration with backend agents
 
 ### **Backend**
 
-* Node.js 
+* Python (FastAPI) 
 * Multi-agent AI workflow
 * Secure database architecture
 * Jira API integration
